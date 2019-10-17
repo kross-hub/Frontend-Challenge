@@ -15,7 +15,7 @@ nav {
   font-size:14px;
 }
 
-.status_bar img {
+.base {
   width:100.17%;
   top:0px;
 }
@@ -55,14 +55,14 @@ nav {
   font-size:.85em;
 }
 
-.map {
+.Map img{
   padding-top: 0px;
   width: 375px;
-  height: 150px;
+  height: 450px;
 }
 
 .list {
-  height: 270px;
+  height: 225px;
   margin: 0px;
   overflow: scroll;
 }
@@ -73,7 +73,7 @@ nav {
   margin: 6px 0px 0px 10px;
   padding: 2px;
   border: .05px solid #000;
-  background-color: #dadada;
+  background-color: #2364AA;
   text-align: center;
   clear:both;
 }
@@ -106,6 +106,37 @@ h2 {
   width:100%;
   height: 35px;
   border-bottom: 1px solid #dadada;
+}
+
+.bottom_tab_bar img {
+  width: 100.1%;
+  height:100%;
+  border-top:.5px solid #dadada;
+  bottom:0px;
+}
+
+.icons {
+  width:375px;
+  font-size: .8em;
+  color: #dadada;
+}
+
+.icon_list {
+  width:20%;
+  display:inline-block;
+  position:relative;
+  top:-80px;
+  padding: 0px 10px;
+  margin:2%;
+  text-align:center;
+}
+
+.icon_list img{
+  width:50%;
+}
+
+.highlighted {
+  color:#2364AA;
 }
 
 
