@@ -8,11 +8,12 @@ body{
   font-weight:400;
   margin: 5%;
   background-color: black;
-  font-family: sans-serif;
+  font-family: 'Raleway',sans-serif;
 }
 
 nav {
   font-size:14px;
+  font-family: 'Raleway',sans-serif;
 }
 
 .base {
@@ -22,6 +23,7 @@ nav {
 
 .header {
   font-size: 1.1em;
+  font-family: 'Raleway',sans-serif;
 }
 
 .heading {
@@ -53,6 +55,7 @@ nav {
   height:812px;
   background-color: #fff;
   font-size:.85em;
+  font-family: 'Raleway',sans-serif;
 }
 
 .Map img{
@@ -95,6 +98,7 @@ nav {
 
 h2 {
   font-size:1.15em;
+  font-family: 'Raleway',sans-serif;
   font-weight:600;
   color:#000;
   padding:7px;
